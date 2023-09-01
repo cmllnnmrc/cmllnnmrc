@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cmarca01@gmail.com**
 
-- ⚡ Fun fact **I'm a slow thinker haha**
+- ⚡ Fun fact **I'm the ultimate binge-watcher: I've finished entire TV series before my friends finish a single season!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

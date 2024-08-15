@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmllnnmrc&label=Profile%20views&color=0e75b6&style=flat" alt="cmllnnmrc" /> </p>
 
-- 👨🏼‍💻 A graduating student **and a Newbie**
+- 👨🏼‍💻 IT Graduate 
 
 - 🌱 I’m currently learning **React and Python**
 
-- 👨‍💻 All of my projects are available at [camillemarca.vercel.app](kamilann.vercel.app)
+- 👨‍💻 All of my projects are available at [kamilann.vercel.app](kamilann.vercel.app)
 
 - 📫 How to reach me **cmarca01@gmail.com**
 

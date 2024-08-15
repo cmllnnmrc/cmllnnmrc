@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 👨‍💻 All of my projects are available at [camillemarca.vercel.app](camillemarca.vercel.app)
+- 👨‍💻 All of my projects are available at [camillemarca.vercel.app](kamilann.vercel.app)
 
 - 📫 How to reach me **cmarca01@gmail.com**
 
